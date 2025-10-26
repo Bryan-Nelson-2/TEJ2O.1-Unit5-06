@@ -2,7 +2,7 @@
  *
  * Created by: Bryan
  * Created on: Oct 2025
- * This program ...
+ * This program finds the distance to an object in centimeters.
 */
 
 let distanceToObject: number = 0
