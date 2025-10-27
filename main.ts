@@ -2,7 +2,7 @@
  *
  * Created by: Bryan
  * Created on: Oct 2025
- * This program finds the distance to an object in centimeters.
+ * This program gets the distance from the sonar in cm.
 */
 
 let distanceToObject: number = 0
